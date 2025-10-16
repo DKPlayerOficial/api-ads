@@ -3,65 +3,16 @@
     {
       "tvg-id": "STND5636692281008316",
       "tvg-name": "Superman (2025)",
-      "tvg-logo": "https://www.izzigo.tv/images/repository/137/18697137-POSTER-l.jpg",
+      "tvg-logo": "https://www.facilgo.tv/images/repository/137/18697137-POSTER-l.jpg",
       "group-title": "Fantasia",
       "title": "Superman (2025)",
       "license_type": "org.w3.clearkey",
       "license_key": "472c38b7a0d4981d79f0f5bcc4fa4951:05e41d3cc9c43cb9f23e8dd1752f2e4a",
-      "url": "https://vod-ott.izzigo.tv/out/vod/valias/DLVY9304763339002779/u/dash/common/index.mpd",
+      "url": "https://vod-ott.facilgo.tv/out/vod/valias/DLVY9304763339002779/u/dash/common/index.mpd",
       "headers": {
-        "Origin": "https://www.izzigo.tv",
-        "Referer": "https://www.izzigo.tv"
+        "Origin": "https://www.facilgo.tv",
+        "Referer": "https://www.facilgo.tv"
       }
-    },
-    {
-      "tvg-id": "STND7842219983004213",
-      "tvg-name": "Batman: Renacimiento (2024)",
-      "tvg-logo": "https://www.izzigo.tv/images/repository/152/18700152-POSTER-l.jpg",
-      "group-title": "Accion",
-      "title": "Batman: Renacimiento (2024)",
-      "license_type": "org.w3.clearkey",
-      "license_key": "8a2f64e5b9d431cd98b4a55b2dd73e6d:3d6aab93f8e9449f21b6bcb015d1c66b",
-      "url": "https://vod-ott.izzigo.tv/out/vod/valias/DLVY9389221184002511/u/dash/common/index.mpd",
-      "headers": {
-        "Origin": "https://www.izzigo.tv",
-        "Referer": "https://www.izzigo.tv"
-      }
-    },
-    {
-      "tvg-id": "STND3427712310998123",
-      "tvg-name": "Avatar: El Camino del Agua (2022)",
-      "tvg-logo": "https://www.izzigo.tv/images/repository/127/18690127-POSTER-l.jpg",
-      "group-title": "Ciencia Ficcion",
-      "title": "Avatar: El Camino del Agua (2022)",
-      "license_type": "org.w3.clearkey",
-      "license_key": "4bcf71a7d4a4440bafec2b87cb73b912:7c9a8f7a19b54c5ea9e9e1a1a4d5d63c",
-      "url": "https://vod-ott.izzigo.tv/out/vod/valias/DLVY9374719930023128/u/dash/common/index.mpd",
-      "headers": {
-        "Origin": "https://www.izzigo.tv",
-        "Referer": "https://www.izzigo.tv"
-      }
-    },
-    {
-      "tvg-id": "STND2234567812390987",
-      "tvg-name": "Jurassic World: Dominion (2022)",
-      "tvg-logo": "https://www.izzigo.tv/images/repository/111/18690111-POSTER-l.jpg",
-      "group-title": "Aventura",
-      "title": "Jurassic World: Dominion (2022)",
-      "license_type": "org.w3.clearkey",
-      "license_key": "5a9d3b2f7c684ef6ad5a3e9c6a08f4e2:6e8c9a7d1b934c42a7a5e0c3c9b5a82f",
-      "url": "https://vod-ott.izzigo.tv/out/vod/valias/DLVY9311184339002771/u/dash/common/index.mpd",
-      "headers": {
-        "Origin": "https://www.izzigo.tv",
-        "Referer": "https://www.izzigo.tv"
-      }
-    },
-    {
-      "tvg-id": "STND9988712730012312",
-      "tvg-name": "Spider-Man: Cruzando el Multiverso (2023)",
-      "tvg-logo": "https://www.izzigo.tv/images/repository/141/18699141-POSTER-l.jpg",
-      "group-title": "Animacion",
-      "title": "Spider-Man: Cruzando el Multiverso (2023)",
-      "license_type": "org.w3.clearkey",
-      "license_key": "0adf93b2f5c14a7b8e4e1d_
-
+    }
+  ]
+}
