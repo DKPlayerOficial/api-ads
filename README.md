@@ -1,2 +1,1 @@
-# api-ads
-api ads
+google.com, pub-2678547982480690, DIRECT, f08c47fec0942fa0
